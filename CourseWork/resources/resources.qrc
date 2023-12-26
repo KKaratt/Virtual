@@ -1,0 +1,12 @@
+<RCC>
+    <qresource prefix="/">
+        <file>images/load.jpg</file>
+        <file>images/ico.png</file>
+        <file>helpInformation/index.html</file>
+        <file>helpInformation/add.html</file>
+        <file>helpInformation/del.html</file>
+        <file>helpInformation/edit.html</file>
+        <file>helpInformation/hotKeys.html</file>
+        <file>helpInformation/test.html</file>
+    </qresource>
+</RCC>
